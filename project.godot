@@ -21,6 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Arena 17"
+run/main_scene="res://DevScene.tscn"
 config/icon="res://icon.png"
 
 [editor]
